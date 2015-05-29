@@ -1,0 +1,5 @@
+Makefile.PL
+MANIFEST
+README
+t/NCBI-Taxonomy-Gi2taxid.t
+lib/NCBI/Taxonomy/Gi2taxid.pm
